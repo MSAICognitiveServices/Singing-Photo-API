@@ -59,7 +59,7 @@ if len(sys.argv) == 1:
 inputImage = ""
 outputSong = ""
 try:
-    opts, args = getopt.getopt(sys.argv[1:], "hi:o:", ["ifile=","ofile="])
+    opts, args = getopt.getopt(sys.argv[1:], "hi:o:", ["iInputImage=","oOutputSong="])
 except getopt.GetoptError:
     usage()
     sys.exit(2)
