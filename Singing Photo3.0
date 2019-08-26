@@ -1,0 +1,21 @@
+“Singing Video”(aka Singing Photo3.0) is a video voice production application powered by AI.
+
+ In 2016, we launched Singing photo(demo:https://bjwmccosongbot.chinacloudsites.cn/ ) to identify the visual content of the uploaded photos and based on the extracted information, it can compose a song, write the rhythms and sing it out. 
+ This year, we look for further breakthroughs in using this technology for video and commercial situations. 
+ After investigation, for some video production platforms, a large number of video needs  voice over everyday. 
+ This requires not only a full understanding of video context, but also a full use of music knowledge. 
+ Sometimes professional musicians need to be invited, and sometimes copyright issues are involved.
+ For audio producers, the traditional work approach takes much time and effort.    
+ "Singing Video" can analyze people/emotion/text/key frames and other information in video to create translated speech/background music/ theme song/ subtitles/ narration/trailer with custom voice capability for any video content. 
+ It can reduce the cost and time to help people without audio professionals (sound, music, or voice over narration) to produce audio content for video production for vlogger, promo video, or other commercial advertising uses
+
+Think these scenarios:
+-When you made a interview video, AI help you write all scripts, translate text into different languages and speak them out; 
+-When you record a Vlog, AI help you choose the most suitable background music according to the frame and transitions of the video;
+-When you made a micro film, AI help you to produce the theme song, background music, subs-title and translation;
+-When a movie is made, AI automatically generates awesome trailers through contextual analysis...
+
+Using MSFT cloud and AI technologies, we created an app Singing Video (aka Singing Photo 3.0) to create background music, theme song, subtitles, narration, trailer with custom voice capability for any video content.
+Based on our experience on Singing Photo app, 
+This project is feasible and actionable to implement within a reasonable time-frame (estimated 6 to 12 months for coding and testing). 
+We also believe the chance of success is high based on our experience on a few versions of Singing Photo which has been launched in 2016 and 2017 for different marketing projects.
